@@ -1,7 +1,9 @@
 absl-py==0.11.0
+anyio==2.2.0
 argon2-cffi==20.1.0
 astunparse==1.6.3
 attrs==19.3.0
+Babel==2.9.0
 backcall==0.2.0
 bleach==3.3.0
 cachetools==4.1.1
@@ -43,14 +45,17 @@ jupyter==1.0.0
 jupyter-client==6.1.6
 jupyter-console==6.1.0
 jupyter-core==4.6.3
-jupyterlab==2.2.4
-jupyterlab-server==1.2.0
+jupyter-packaging==0.7.12
+jupyter-server==1.4.1
+jupyterlab==3.0.9
+jupyterlab-server==2.3.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.3.4
 mistune==0.8.4
+nbclassic==0.2.6
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.2.0
@@ -99,6 +104,7 @@ shortuuid==1.0.1
 six==1.15.0
 sklearn==0.0
 smmap==3.0.4
+sniffio==1.2.0
 subprocess32==3.5.4
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.7.0
@@ -115,7 +121,7 @@ tornado==6.1
 traitlets==4.3.3
 typing-extensions==3.7.4.3
 urllib3==1.25.9
-wandb==0.9.3
+wandb==0.10.21
 watchdog==0.10.3
 wcwidth==0.2.5
 webencodings==0.5.1

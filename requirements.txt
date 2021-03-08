@@ -4,6 +4,9 @@ scikit-learn
 matplotlib
 progressbar2
 jupyter
+jupyterlab
+notebook
 torch
 torchvision
 tensorflow
+wandb
